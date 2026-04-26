@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/kitty-header.png" alt="Neovim Config Header" width="400">
+<img src="assets/kitty-header.png" alt="Kitty Config Header" width="400">
 </p>
 
 ---
