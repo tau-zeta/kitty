@@ -1,2 +1,3 @@
 # kitty
-Kitty Terminal Configuration
+
+1. Make sure *GeistMono Nerd Fonts* is installed.
