@@ -4,4 +4,4 @@
 
 ---
 
-1. Make sure *GeistMono Nerd Font* is installed.
+1. Make sure [Geist Mono Nerd Font](https://www.nerdfonts.com/font-downloads) is installed.
